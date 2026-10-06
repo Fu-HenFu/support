@@ -8,7 +8,7 @@ Welcome to the official support hub for **FeedSmith: Offline Livestock Ration Ba
 
 If you have questions, encountered a calculation bug, or wish to request custom grains/livestock species for future database updates, our team responds directly:
 
-* **Direct Support Email:** [fionadevelopermobild@gmail.com](mailto:fionadevelopermobild@gmail.com)
+* **Direct Support Email:** [fionadevelopermobile@gmail.com](mailto:fionadevelopermobile@gmail.com)
 * **Response Time:** Typically within 24–48 business hours.
 * **Compatibility:** Requires iOS 17.0 / iPadOS 17.0 or later. Universal purchase covers both iPhone and iPad.
 
